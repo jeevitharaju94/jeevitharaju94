@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jeevitha 👋
 
-<!--
-**jeevitharaju94/jeevitharaju94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Azure Integration & Microsoft 365 Developer
 
-Here are some ideas to get you started:
+I design and develop scalable enterprise integration solutions using Microsoft Azure, .NET and Microsoft 365.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary focus areas include:
+
+- Azure Integration Services
+- Azure API Management
+- Azure Functions
+- Azure Logic Apps
+- Azure Service Bus
+- Azure Key Vault
+- Managed Identity
+- C# / .NET
+- Microsoft Graph
+- SharePoint Online
+- Dynamics 365
+- Azure DevOps & CI/CD
+- Bicep Infrastructure as Code
+- Azure Data Factory
+- Azure SQL
+- Application Insights
+
+I enjoy building secure, scalable and maintainable cloud integration solutions using API-driven and event-driven architectures.
